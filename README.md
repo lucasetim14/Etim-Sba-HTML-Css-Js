@@ -3,4 +3,4 @@
 acount or order as guest.
 2)Page Two: Menu use the this page to scan what food you want then type out entire order in textarea
 at the bottom.
-3)PAge Three Sign up use this page to sign up for rewards points as you order more and more!
+3)Page Three Sign up use this page to sign up for rewards points as you order more and more!
