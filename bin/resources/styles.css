@@ -1,0 +1,47 @@
+@charset "ISO-8859-1";
+
+.title{
+	 text-align: center;
+	 color: white;
+	 background: red;
+	 height: 300 px;
+	 margin-bottom: 50 px;
+}
+body{
+	background-image: url("https://www.jennycancook.com/wp-content/uploads/2013/02/PeppPizza_600.jpg");
+}
+div h2{
+	text-align: center;
+	color: white;
+}
+ul {
+	text-align: center;
+	position: relative;
+	margin: 0px auto;
+	line-height: 100px;
+	font-size: 48px;
+	color: black;
+	width: 100%;
+}
+a {
+	color: white;
+}
+form{
+	text-align: center;
+}
+label {
+	color: white;
+	font-family: georgia;
+	font-style: bold;
+	font-size: 20px;
+}
+table {
+	position: relative;
+	text-align: center;
+}
+h2{
+	color: white;
+}
+.rewForm{
+	text-align: center;
+}
